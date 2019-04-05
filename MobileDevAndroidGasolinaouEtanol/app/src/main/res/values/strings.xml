@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gasoline-or-Ethanol</string>
+    <string name="preco_gasolina">Gas Price</string>
+    <string name="preco_etanol">Ethanol Price</string>
+    <string name="better_use">Better use:</string>
+    <string name="melhor_combustivel_imageview">Best Fuel</string>
+    <string name="combustivel_gasolina">Gasoline</string>
+    <string name="combustivel_etanol">Ethanol</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">汽油或乙醇</string>
+    <string name="preco_gasolina">汽油价格</string>
+    <string name="preco_etanol">乙醇价格</string>
+    <string name="better_use">更好用</string>
+    <string name="melhor_combustivel_imageview">更好的燃料</string>
+    <string name="combustivel_gasolina">汽油</string>
+    <string name="combustivel_etanol">乙醇</string>
+</resources>
